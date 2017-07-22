@@ -1,6 +1,8 @@
 The Aim
 ===
 
+[![Join the chat at https://gitter.im/stbrides/Lobby](https://badges.gitter.im/stbrides/Lobby.svg)](https://gitter.im/stbrides/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Create a standardised listing format/file.  
 Foundries can then host this on their own site at a consistent location for easy indexing by other parties.
 
