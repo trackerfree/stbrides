@@ -1,19 +1,19 @@
 {
 	"name": "A stylised version of the Foundry Name™",
 	"url": "https://example.com",
-  "eula": "https://example.com/eula/agreement",
-  "purchase": "https://example.com/shop",
-  "description": "A short description, up to 155 characters in length.",
+	"eula": "https://example.com/eula/agreement",
+	"purchase": "https://example.com/shop",
+	"description": "A short description, up to 155 characters in length.",
 	"typefaces": [{
-    "family": "Stylized name of Typeface",
-    "url": "https://example.com/typefaces/stylized-name",
-    "description": "A short description, up to 155 characters in length.",
-    "poster": "https://example.com/images/type-example.jpg",
-    "specimen": "https://example.com/specimen",
-    "category": ["sans-serif", "serif", "display", "handwriting", "monospace"],
-    "licensing": ["self-hosted","desktop"],
+		"family": "Stylized name of Typeface",
+		"url": "https://example.com/typefaces/stylized-name",
+		"description": "A short description, up to 155 characters in length.",
+		"poster": "https://example.com/images/type-example.jpg",
+		"specimen": "https://example.com/specimen",
+		"category": ["sans-serif", "serif", "display", "handwriting", "monospace"],
+		"licensing": ["self-hosted", "desktop"],
 		"variants": [
-      "regular",
+			"regular",
 			"italic",
 			"500",
 			"600",
@@ -33,7 +33,7 @@
 			"200italic"
 		],
 		"subsets": [
-      "latin",
+			"latin",
 			"latin-ext",
 			"sinhala",
 			"greek",
@@ -57,6 +57,6 @@
 			"myanmar"
 		],
 		"version": "v10",
-		"lastModified": "2017-07-22",
+		"lastModified": "2017-07-22"
 	}]
 }
